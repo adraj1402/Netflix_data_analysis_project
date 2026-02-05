@@ -1,1 +1,2 @@
 # Netflix_data_analysis_project
+Uploaded the dataset using PANDAS library. Find out the year in which highest number of movies/tv shows released and used a bar chart to visualize the output. Visualized total number of tv shows and movies using countplot in SEABORN library. Filtered top 10 directors with highest number of movies and tv shows. Contrived all instances where category is movie and genre is drama or category is tv show and genre is Kids TV. Obtained movie and tv show with maximum duration where the column was in object type with minute and season.
